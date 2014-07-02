@@ -1,5 +1,5 @@
 
-/* Styles for Option Button */
+/* Styles for Step By Step */
 .circlenumber {
   background-color: #fff;
   border-radius: 50%;
@@ -15,7 +15,7 @@
 }
 
 @media only screen and (min-width: 0) and (max-width: 40em){ 
-  .path-container-style-one {
+  .step-by-step-style-one {
     .circlenumber {
       width: 80px;
       height: 80px;
@@ -30,7 +30,7 @@
 }
 
 @media only screen and (min-width: 40em) { 
-  .path-container-style-one {
+  .step-by-step-style-one {
     .path-item {
       padding-left:55px;
       position: relative;
@@ -50,7 +50,7 @@
 }
 
 @media only screen and (min-width: 40em) { 
-  .path-container-style-two {
+  .step-by-step-style-two {
     .circlenumber {
       width: 80px;
       height: 80px;
@@ -65,7 +65,7 @@
 }
 
 @media only screen and (min-width: 0) and (max-width: 40em){ 
-  .path-container-style-two {
+  .step-by-step-style-two {
     .path-item {
       padding-left:55px;
       position: relative;
