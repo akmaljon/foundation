@@ -16,13 +16,13 @@
 
 /* Circle Style One Mobile */   
 @media only screen and (min-width: 0) and (max-width: 40em) {
-  .path-container-style-one .circlenumber {
+  .step-by-step-style-one .circlenumber {
     width: 80px;
     height: 80px;
     left: -12px;
     margin: 30px auto 15px auto;
   }
-  .path-container-style-one .circlenumber h3 {
+  .step-by-step-style-one .circlenumber h3 {
     padding-top: 35px;
     font-size: 20px;
   }
@@ -31,18 +31,18 @@
 /* Circle Style One Medium and Large */   
 
 @media only screen and (min-width: 40em) {
-  .path-container-style-one .path-item {
+  .step-by-step-style-one .path-item {
     padding-left: 55px;
     position: relative;
   }
-  .path-container-style-one .path-item .circlenumber {
+  .step-by-step-style-one .path-item .circlenumber {
     width: 40px;
     height: 40px;
     position: absolute;
     margin-top: 6px;
     left: 0;
   }
-  .path-container-style-one .path-item .circlenumber h3 {
+  .step-by-step-style-one .path-item .circlenumber h3 {
     padding-top: 15px;
     font-size: 16px;
   }
@@ -51,13 +51,13 @@
 /* Circle Style Two Mobile */   
 
 @media only screen and (min-width: 40em) {
-  .path-container-style-two .circlenumber {
+  .step-by-step-style-two .circlenumber {
     width: 80px;
     height: 80px;
     left: -12px;
     margin: 30px auto 15px auto;
   }
-  .path-container-style-two .circlenumber h3 {
+  .step-by-step-style-two .circlenumber h3 {
     padding-top: 35px;
     font-size: 20px;
   }
@@ -66,18 +66,18 @@
 /* Circle Style Two Medium and Large */   
 
 @media only screen and (min-width: 0) and (max-width: 40em) {
-  .path-container-style-two .path-item {
+  .step-by-step-style-two .path-item {
     padding-left: 55px;
     position: relative;
   }
-  .path-container-style-two .path-item .circlenumber {
+  .step-by-step-style-two .path-item .circlenumber {
     width: 40px;
     height: 40px;
     position: absolute;
     margin-top: 6px;
     left: 0;
   }
-  .path-container-style-two .path-item .circlenumber h3 {
+  .step-by-step-style-two .path-item .circlenumber h3 {
     padding-top: 15px;
     font-size: 16px;
   }
