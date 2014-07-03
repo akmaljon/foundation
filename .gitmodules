@@ -1,0 +1,4 @@
+[submodule "foundation"]
+	path = foundation
+	url = https://github.com/zurb/foundation.git
+	branch = master
